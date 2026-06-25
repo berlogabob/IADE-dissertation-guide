@@ -1,0 +1,119 @@
+\documentclass[12pt,a4paper]{report}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage[style=apa,backend=biber]{biblatex}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+
+% ----------------------------
+% Code Listings Configuration
+% ----------------------------
+\usepackage{inconsolata}
+\definecolor{bluekeywords}{rgb}{0.13,0.13,1}
+\definecolor{greencomments}{rgb}{0,0.5,0}
+\definecolor{redstrings}{rgb}{0.9,0,0}
+
+\lstset{language=[Sharp]C,
+  showspaces=false,
+  showtabs=false,
+  breaklines=true,
+  showstringspaces=false,
+  breakatwhitespace=true,
+  escapeinside={(*@}{@*)},
+  commentstyle=\color{greencomments},
+  keywordstyle=\color{bluekeywords},
+  stringstyle=\color{redstrings},
+  basicstyle=\ttfamily,
+  frame=single,
+  numbers=left,
+  numberstyle=\tiny\color{gray}
+}
+
+% Page geometry
+\geometry{
+    top=2.5cm,
+    bottom=2.5cm,
+    left=3cm,
+    right=2.5cm
+}
+
+% Line spacing
+\onehalfspacing
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+% ============================================
+% DOCUMENT METADATA
+% ============================================
+\title{Your Dissertation Title Here}
+\author{Your Name}
+\date{\today}
+\addbibresource{bibliography.bib}
+
+% ============================================
+% BEGIN DOCUMENT
+% ============================================
+\begin{document}
+
+% Title page
+\maketitle
+
+% Abstract
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+
+% TODO: Write your abstract here (150--300 words)
+Your abstract goes here. It should summarize your research problem, methodology, key findings, and conclusions.
+
+% Acknowledgments
+\chapter*{Acknowledgments}
+\addcontentsline{toc}{chapter}{Acknowledgments}
+
+% TODO: Thank your advisor, colleagues, family, etc.
+
+% Table of Contents
+\tableofcontents
+\listoffigures
+\listoftables
+
+% ============================================
+% CHAPTERS
+% ============================================
+
+\include{chapters/introduction}
+\include{chapters/literature-review}
+\include{chapters/methodology}
+\include{chapters/results}
+\include{chapters/discussion}
+\include{chapters/conclusion}
+
+% ============================================
+% BACK MATTER
+% ============================================
+
+% Bibliography
+\printbibliography
+
+% Appendices
+\appendix
+\chapter{Appendix Title}
+% TODO: Add appendix content
+
+\end{document}
