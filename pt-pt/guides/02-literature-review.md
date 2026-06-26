@@ -1,4 +1,4 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
 # 02 — Revisão da Literatura
@@ -29,7 +29,7 @@ Utilize múltiplas fontes para uma cobertura abrangente:
 | [Google Scholar](https://scholar.google.com/) | Cobertura ampla |
 | [dblp](https://dblp.uni-trier.de/) | Bibliografia de CC |
 
-Ver lista completa: [Bibliotecas Digitais](../pt-pt/resources/digital-libraries.md)
+Ver lista completa: [Bibliotecas Digitais](../resources/digital-libraries.md)
 
 ### 3. Gira as Suas Referências
 
@@ -63,13 +63,13 @@ Estas ferramentas podem acelerar a sua pesquisa:
 - [Connected Papers](https://www.connectedpapers.com/) — Visualize relações entre artigos
 - [Research Rabbit](https://app.researchrabbit.ai/) — Descubra artigos relacionados
 
-Ver: [Ferramentas de IA para Investigação](../pt-pt/resources/ai-tools.md)
+Ver: [Ferramentas de IA para Investigação](../resources/ai-tools.md)
 
 ## Revisão Sistemática da Literatura (SLR)
 
 Uma SLR formal é **recomendada** para a sua dissertação. Siga a metodologia em:
-- [Guia SLR](../pt-pt/resources/systematic-literature-review.md)
-- [Checklist PRISMA](../pt-pt/resources/prisma/README.md)
+- [Guia SLR](../resources/systematic-literature-review.md)
+- [Checklist PRISMA](../resources/prisma/README.md)
 
 ## Erros Comuns
 
