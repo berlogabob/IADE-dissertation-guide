@@ -7,7 +7,7 @@
 
 # Guia de Dissertações de Mestrado da IADE
 
-Um recurso abrangente para os alunos de mestrado da IADE orientar o processo de elaboração da dissertação, desde a escolha do tema até à defesa.
+Um recurso abrangente para orientar os alunos de mestrado e doutoramento do IADE no processo de elaboração da dissertação.
 
 ## Início Rápido
 
