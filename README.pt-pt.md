@@ -5,7 +5,7 @@
 
 [Português](README.pt-pt.md) | [English](README.md)
 
-# Guia de Dissertações de Mestrado da IADE
+# Guia de Dissertações de Mestrado e Doutoramento do IADE/UE
 
 Um recurso abrangente para orientar os alunos de mestrado e doutoramento do IADE no processo de elaboração da dissertação.
 
