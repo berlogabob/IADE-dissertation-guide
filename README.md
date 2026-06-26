@@ -1,5 +1,6 @@
 <p align="center">
   <img src="images/logo-iade.png" alt="IADE Logo" width="600">
+</br>
 </p>
 
 [Português](README.pt-pt.md) | English
