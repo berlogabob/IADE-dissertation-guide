@@ -24,7 +24,7 @@ Selected articles on conducting systematic literature reviews in Computer Scienc
 
 ## PRISMA
 
-- **PRISMA 2020 statement - an updated guideline for reporting.pdf**
+- [**PRISMA 2020 statement - an updated guideline for reporting.pdf**](PRISMA 2020 statement - an updated guideline for reporting.pdf)
 - **PRISMA 2020 explanation and elaboration.pdf**
 - **PRISMA_2020_checklist.docx** — Checklist for reporting
 - **PRISMA_2020_flow_diagram_new_SRs_v1.docx** — Flow diagram template
