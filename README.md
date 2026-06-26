@@ -10,12 +10,12 @@ A comprehensive resource for IADE master's students to navigate the dissertation
 
 ## Quick Start
 
-1. **Choose your topic** → [01 - Choosing a Topic](guides/01-choosing-a-topic.md)
-2. **Review the literature** → [02 - Literature Review](guides/02-literature-review.md)
-3. **Define your methodology** → [03 - Research Methodology](guides/03-research-methodology.md)
-4. **Write your dissertation** → [04 - Writing the Dissertation](guides/04-writing-the-dissertation.md)
-5. **Manage citations** → [05 - Citations and References](guides/05-citations-and-references.md)
-6. **Prepare your defense** → [06 - Defense Preparation](guides/06-defense-preparation.md)
+1. [Choosing a Topic](guides/01-choosing-a-topic.md)
+2. [Literature Review](guides/02-literature-review.md)
+3. [Research Methodology](guides/03-research-methodology.md)
+4. [Writing the Dissertation](guides/04-writing-the-dissertation.md)
+5. [Citations and References](guides/05-citations-and-references.md)
+6. [Defense Preparation](guides/06-defense-preparation.md)
 
 ## Resources
 
