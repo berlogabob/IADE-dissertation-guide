@@ -1,11 +1,11 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p> </br></p>
 
 
 # Revisão Sistemática da Literatura (SLR)
 
 ## Visão Geral
 
-Uma Revisão Sistemática da Literatura (SLR) é **obrigatória** para a sua dissertação. É uma abordagem rigorosa e metódica para identificar, avaliar e sintetizar toda a investigação relevante sobre um tema específico. Ao contrário de uma revisão da literatura comum, uma SLR segue um protocolo pré-definido e deve ser reportada usando as diretrizes PRISMA.
+Uma Revisão Sistemática da Literatura (SLR) é **recomendada** para a sua dissertação. É uma abordagem rigorosa e metódica para identificar, avaliar e sintetizar toda a investigação relevante sobre um tema específico. Ao contrário de uma revisão da literatura comum, uma SLR segue um protocolo pré-definido e deve ser reportada usando as diretrizes PRISMA.
 
 ## Processo da SLR
 
