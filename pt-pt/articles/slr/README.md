@@ -7,19 +7,19 @@ Artigos selecionados sobre condução de revisões sistemáticas da literatura e
 
 ## Guias
 
-1. **How-to conduct a systematic literature review - A quick guide for computer science research.pdf**
+1. [**How-to conduct a systematic literature review - A quick guide for computer science research**](#)
    - Visão geral rápida da metodologia SLR para CC
 
-2. **How-to conduct a systematic literature review for CS research.pdf**
+2. [**How-to conduct a systematic literature review for CS research**](#)
    - Guia detalhado para SLRs específicas de CC
 
-3. **How-to do a Structured Literature Review in computer science.pdf**
+3. [**How-to do a Structured Literature Review in computer science**](#)
    - Abordagem estruturada para revisões da literatura
 
-4. **Supporting Systematic Literature Reviews in Computer Science.pdf**
+4. [**Supporting Systematic Literature Reviews in Computer Science**](#)
    - Ferramentas e técnicas para SLRs em CC
 
-5. **Systematic Literature Review in Computer Science - A Practical Guide.pdf**
+5. [**Systematic Literature Review in Computer Science - A Practical Guide**](#)
    - Guia prático passo a passo
 
 ## PRISMA

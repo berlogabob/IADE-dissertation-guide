@@ -1,11 +1,11 @@
-<p align="center"><img src="../images/logo-iade.png" alt="IADE Logo" width="600"></p>
+<p align="center"><img src="../images/logo-iade.png" alt="IADE Logo" width="600"></br></p>
 
 
-# 01 — Choosing a Topic
+# 01 - Choosing a Topic
 
 ## Overview
 
-Choosing a dissertation topic is one of the most important decisions in your master's journey. A well-defined topic sets the foundation for your entire research.
+Choosing a dissertation topic is one of the most important decisions in your master's or PhD journey. A well-defined topic sets the foundation for your entire research.
 
 ## Steps
 
@@ -18,9 +18,9 @@ Choosing a dissertation topic is one of the most important decisions in your mas
 ### 2. Review Current Literature
 
 Browse recent publications to identify:
-- **Research gaps** — What hasn't been explored yet?
-- **Emerging trends** — What topics are gaining traction?
-- **Unresolved debates** — Where do experts disagree?
+- **Research gaps** → What hasn't been explored yet?
+- **Emerging trends** → What topics are gaining traction?
+- **Unresolved debates** → Where do experts disagree?
 
 Use [digital libraries](../resources/digital-libraries.md) and [AI tools](../resources/ai-tools.md) to explore.
 
@@ -34,10 +34,10 @@ Ask yourself:
 ### 4. Formulate a Research Question
 
 A good research question is:
-- **Clear** — Specific and unambiguous
-- **Focused** — Narrow enough to be manageable
-- **Complex** — Requires analysis, not just description
-- **Relevant** — Meaningful to your field
+- **Clear** → Specific and unambiguous
+- **Focused** → Narrow enough to be manageable
+- **Complex** → Requires analysis, not just description
+- **Relevant** → Meaningful to your field
 
 ### 5. Write a Preliminary Title
 

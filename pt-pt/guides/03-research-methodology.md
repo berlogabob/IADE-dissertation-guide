@@ -1,7 +1,7 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
-# 03 — Metodologia de Investigação
+# 03 - Metodologia de Investigação
 
 ## Visão Geral
 
@@ -49,9 +49,9 @@ Com base na sua questão de investigação:
 
 ### 3. Defina a Sua Amostra
 
-- **População** — Quem/o que está a estudar
-- **Método de amostragem** — Como seleciona os participantes
-- **Tamanho da amostra** — Quantos (justifique a escolha)
+- **População** → Quem/o que está a estudar
+- **Método de amostragem** → Como seleciona os participantes
+- **Tamanho da amostra** → Quantos (justifique a escolha)
 
 ### 4. Defina a Análise
 
@@ -60,9 +60,9 @@ Com base na sua questão de investigação:
 
 ### 5. Aborde a Validade e Fiabilidade
 
-- **Validade interna** — Resultados devem-se à sua intervenção, não a fatores confundentes
-- **Validade externa** — Resultados generalizáveis para outros contextos
-- **Fiabilidade** — Resultados consistentes e reproduzíveis
+- **Validade interna** → Resultados devem-se à sua intervenção, não a fatores confundentes
+- **Validade externa** → Resultados generalizáveis para outros contextos
+- **Fiabilidade** → Resultados consistentes e reproduzíveis
 
 ### 6. Considerações Éticas
 

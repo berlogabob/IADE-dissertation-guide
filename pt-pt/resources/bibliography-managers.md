@@ -1,4 +1,4 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
 # Gestores de Bibliografia
@@ -7,14 +7,16 @@ Ferramentas para organizar referências, gerar citações e criar bibliografias.
 
 ## Recomendado
 
-### [Zotero](https://www.zotero.org/)
+### <a href="https://www.zotero.org/" target="_blank" rel="noopener noreferrer">Zotero</a>
+
 - **Tipo**: Aplicação desktop + web + conetor de navegador
 - **Custo**: Gratuito
 - **Mais adequado para**: Maioria dos utilizadores, colaboração em equipa
 - **Funcionalidades**: Gestão de PDFs, plugin de processador de texto, sincronização, grupos
 - **Guia**: Ver [Guia do Zotero](../guides/tools/zotero-guide.md)
 
-### [ZoteroBib](https://zbib.org/)
+### <a href="https://www.zbib.org/" target="_blank" rel="noopener noreferrer">ZoteroBib</a>
+
 - **Tipo**: Baseado na web
 - **Custo**: Gratuito
 - **Mais adequado para**: Bibliografias rápidas pontuais
@@ -22,39 +24,29 @@ Ferramentas para organizar referências, gerar citações e criar bibliografias.
 
 ## Alternativas
 
-### [Mendeley](https://www.mendeley.com/)
+### <a href="https://www.mendeley.com/" target="_blank" rel="noopener noreferrer">Mendeley</a>
+
 - **Tipo**: Aplicação desktop + web
 - **Custo**: Gratuito (com limites)
 - **Mais adequado para**: Anotação de PDFs, rede social
 - **Funcionalidades**: Leitor de PDF, anotações, recomendações
 
-### [JabRef](https://www.jabref.org/)
-- **Tipo**: Aplicação desktop (offline)
-- **Custo**: Gratuito, código aberto
-- **Mais adequado para**: Utilizadores de LaTeX
-- **Funcionalidades**: BibTeX/BibLaTeX nativo, importação de outros gestores
-
-### [MyBib](https://www.mybib.com/)
-- **Tipo**: Baseado na web
-- **Custo**: Gratuito
-- **Mais adequado para**: Citações rápidas sem instalação de software
-- **Funcionalidades**: APA, MLA e outros estilos, sem necessidade de conta
 
 ## Comparação
 
-| Funcionalidade | Zotero | Mendeley | JabRef | MyBib |
-|----------------|--------|----------|--------|-------|
-| Aplicação desktop | ✅ | ✅ | ✅ | ❌ |
-| Versão web | ✅ | ✅ | ❌ | ✅ |
-| Conetor de navegador | ✅ | ✅ | ❌ | ❌ |
-| Plugin Word | ✅ | ✅ | ❌ | ❌ |
-| Suporte LaTeX | ✅ | Limitado | ✅ | ❌ |
-| Gestão de PDFs | ✅ | ✅ | Limitado | ❌ |
-| Colaboração em equipa | ✅ | ✅ | ❌ | ❌ |
+| Funcionalidade | Zotero | Mendeley |
+|----------------|:------:|:--------:|
+| Aplicação desktop | ✅ | ✅ |
+| Versão web | ✅ | ✅ |
+| Conetor de navegador | ✅ | ✅ |
+| Plugin Word | ✅ | ✅ |
+| Suporte LaTeX | ✅ | Limitado |
+| Gestão de PDFs | ✅ | ✅ |
+| Colaboração em equipa | ✅ | ✅ |
 
 ## Começar com o Zotero (Recomendado)
 
-1. Transferir de [zotero.org](https://www.zotero.org/)
+1. Transferir de <a href="https://www.zotero.org/" target="_blank" rel="noopener noreferrer">zotero.org</a>
 2. Instalar o conetor do navegador
 3. Criar uma conta gratuita
 4. Instalar o plugin do Word/LibreOffice
@@ -64,4 +56,4 @@ Ver: [Guia do Zotero](../guides/tools/zotero-guide.md)
 
 ---
 
-[← Voltar: Citações e Referências](../guides/05-citations-and-references.md) | [Voltar ao README](../README.pt-pt.md)
+[← Voltar: Citações e Referências](../guides/05-citations-and-references.md) | [Voltar ao README](../../README.pt-pt.md)

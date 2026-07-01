@@ -7,7 +7,7 @@
 
 # IADE Master's and PhD Dissertation Guide
 
-A comprehensive resource for IADE master's and PhD students to navigate through the dissertation process.
+A comprehensive resource to help IADE master’s and PhD students navigate the dissertation and thesis process.
 
 ## Quick Start
 
@@ -20,11 +20,11 @@ A comprehensive resource for IADE master's and PhD students to navigate through 
 
 ## Resources
 
-- [Digital Libraries & Databases](resources/digital-libraries.md) — Where to find academic papers
-- [Bibliography Managers](resources/bibliography-managers.md) — Zotero, Mendeley, and more
-- [AI Research Tools](resources/ai-tools.md) — Tools for research and literature review
-- [Systematic Literature Review](resources/systematic-literature-review.md) — SLR methodology guides
-- [IADE & UE Guidelines](resources/iade-ue-guidelines.md) — Official academic writing guidelines
+- [Digital Libraries & Databases](resources/digital-libraries.md) → Where to find academic papers
+- [Bibliography Managers](resources/bibliography-managers.md) → Zotero, Mendeley, and more
+- [AI Research Tools](resources/ai-tools.md) → Tools for research and literature review
+- [Systematic Literature Review](resources/systematic-literature-review.md) → SLR methodology guides
+- [IADE & UE Guidelines](resources/iade-ue-guidelines.md) → Official academic writing guidelines
 
 ## LaTeX Templates
 
@@ -37,14 +37,14 @@ Ready-to-use templates in the [`templates/`](templates/) folder:
 
 Tools for writing and compiling your dissertation:
 
-- [LaTeX Editors](guides/tools/latex-editors.md) — Overleaf, Prism (AI), MiKTeX, TeX Live, VS Code
+- [LaTeX Editors](guides/tools/latex-editors.md) → Overleaf, Prism (AI), MiKTeX, TeX Live, VS Code
 
 ## Articles
 
 Selected research methodology articles in the [`articles/`](articles/) folder.
 
-- [How to Write a Thesis](articles/how-to-write-a-thesis/README.md) — Guides and tips for writing your thesis
-- [Systematic Literature Review Articles](articles/slr/README.md) — SLR guides and PRISMA documents
+- [How to Write a Thesis](articles/how-to-write-a-thesis/README.md) → Guides and tips for writing your thesis
+- [Systematic Literature Review Articles](articles/slr/README.md) → SLR guides and PRISMA documents
 
 ## Contributing
 

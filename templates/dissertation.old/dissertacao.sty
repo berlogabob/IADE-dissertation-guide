@@ -1,0 +1,31 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{dissertacao}[2026/06/28 Ferramentas extra para dissertação]
+
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{mathtools}
+\RequirePackage{booktabs}
+\RequirePackage{array}
+\RequirePackage{enumitem}
+\RequirePackage{microtype}
+\RequirePackage{float}
+\RequirePackage{url}
+\RequirePackage{csquotes}
+\RequirePackage[
+  backend=biber,
+  style=apa,
+  sorting=nyt
+]{biblatex}
+
+\addbibresource{bibliography.bib}
+
+% Comandos matemáticos úteis
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+
+% Bibliografia
+\newcommand{\printreferences}{%
+  \printbibliography
+}

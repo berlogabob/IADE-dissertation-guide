@@ -1,5 +1,4 @@
-<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
-
+<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 # Guia do Connected Papers
 
@@ -49,9 +48,9 @@ Artigos publicados **depois** do seu artigo semente que o citam ou citam as suas
 
 ## Alternativas
 
-- [Research Rabbit](https://app.researchrabbit.ai/) — Gratuito, ilimitado
-- [LitMaps](https://app.litmaps.com/) — Gratuito/Premium
-- [Inciteful](https://incitefulmed.com/academic/) — Gratuito
+- [Research Rabbit](https://app.researchrabbit.ai/) → Gratuito, ilimitado
+- [LitMaps](https://app.litmaps.com/) → Gratuito/Premium
+- [Inciteful](https://incitefulmed.com/academic/) → Gratuito
 
 ---
 

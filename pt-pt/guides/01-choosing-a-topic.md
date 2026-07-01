@@ -1,7 +1,7 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
-# 01 — Escolher o Tema
+# 01 - Escolher o Tema
 
 ## Visão Geral
 
@@ -18,11 +18,11 @@ Escolher o tema da dissertação é uma das decisões mais importantes no seu pe
 ### 2. Reveja a Literatura Atual
 
 Consulte publicações recentes para identificar:
-- **Lacunas de investigação** — O que ainda não foi explorado?
-- **Tendências emergentes** — Quais temas estão a ganhar relevância?
-- **Debates não resolvidos** — Onde os especialistas discordam?
+- **Lacunas de investigação** → O que ainda não foi explorado?
+- **Tendências emergentes** → Quais temas estão a ganhar relevância?
+- **Debates não resolvidos** → Onde os especialistas discordam?
 
-Utilize [bibliotecas digitais](../pt-pt/resources/digital-libraries.md) e [ferramentas de IA](../pt-pt/resources/ai-tools.md) para explorar.
+Utilize [bibliotecas digitais](../resources/digital-libraries.md) e [ferramentas de IA](../resources/ai-tools.md) para explorar.
 
 ### 3. Avalie a Viabilidade
 
@@ -34,10 +34,10 @@ Questione-se:
 ### 4. Formule uma Questão de Investigação
 
 Uma boa questão de investigação é:
-- **Clara** — Específica e inequívoca
-- **Focada** — Suficientemente delimitada para ser gerível
-- **Complexa** — Requer análise, não apenas descrição
-- **Relevante** — Significativa para o seu campo
+- **Clara** → Específica e inequívoca
+- **Focada** → Suficientemente delimitada para ser gerível
+- **Complexa** → Requer análise, não apenas descrição
+- **Relevante** → Significativa para o seu campo
 
 ### 5. Escreva um Título Preliminar
 

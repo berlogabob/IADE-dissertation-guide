@@ -1,7 +1,6 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
-
-# 02 — Revisão da Literatura
+# 02 - Revisão da Literatura
 
 ## Visão Geral
 
@@ -35,11 +34,11 @@ Ver lista completa: [Bibliotecas Digitais](../pt-pt/resources/digital-libraries.
 
 Utilize um gestor de bibliografia para organizar artigos:
 
-- [Zotero](https://www.zotero.org/) — Recomendado, gratuito, desktop + web
-- [Mendeley](https://www.mendeley.com/) — Alternativa
-- [JabRef](https://www.jabref.org/) — Offline, código aberto
+- [Zotero](https://www.zotero.org/) → Recomendado, gratuito, desktop + web
+- [Mendeley](https://www.mendeley.com/) → Alternativa
+- [JabRef](https://www.jabref.org/) → Offline, código aberto
 
-Ver: [Gestores de Bibliografia](../pt-pt/resources/bibliography-managers.md)
+Ver: [Gestores de Bibliografia](../resources/bibliography-managers.md)
 
 ### 4. Leia e Tome Notas
 
@@ -58,18 +57,18 @@ Organize a revisão por **temas**, não por artigo. Mostre como os estudos se re
 
 Estas ferramentas podem acelerar a sua pesquisa:
 
-- [Consensus](https://consensus.app/) — Encontre consenso entre artigos
-- [Elicit](https://elicit.com/) — Extraia resultados de artigos
-- [Connected Papers](https://www.connectedpapers.com/) — Visualize relações entre artigos
-- [Research Rabbit](https://app.researchrabbit.ai/) — Descubra artigos relacionados
+- [Consensus](https://consensus.app/) → Encontre consenso entre artigos
+- [Elicit](https://elicit.com/) → Extraia resultados de artigos
+- [Connected Papers](https://www.connectedpapers.com/) → Visualize relações entre artigos
+- [Research Rabbit](https://app.researchrabbit.ai/) → Descubra artigos relacionados
 
 Ver: [Ferramentas de IA para Investigação](../pt-pt/resources/ai-tools.md)
 
 ## Revisão Sistemática da Literatura (SLR)
 
-Uma SLR formal é **obrigatória** para a sua dissertação. Siga a metodologia em:
-- [Guia SLR](../pt-pt/resources/systematic-literature-review.md)
-- [Checklist PRISMA](../pt-pt/resources/prisma/README.md)
+Uma SLR formal é **recomendada** para a sua dissertação. Siga a metodologia em:
+- [Guia SLR](../resources/systematic-literature-review.md)
+- [Checklist PRISMA](../resources/prisma/README.md)
 
 ## Erros Comuns
 

@@ -17,4 +17,4 @@ Guias e dicas para escrever a sua tese de mestrado ou doutoramento.
 
 ---
 
-[← Voltar ao README](../../README.pt-pt.md)
+[← Voltar ao README](../../../README.pt-pt.md)

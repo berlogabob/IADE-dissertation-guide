@@ -1,4 +1,4 @@
-<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
 # Ferramentas de IA para Investigação

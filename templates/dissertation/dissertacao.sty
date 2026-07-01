@@ -1,0 +1,82 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{dissertacao}[2026/06/28 Extra tools for dissertation]
+
+% -------------------------------------------------
+% Core packages
+% -------------------------------------------------
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{mathtools}
+\RequirePackage{booktabs}
+\RequirePackage{array}
+\RequirePackage{enumitem}
+\RequirePackage{microtype}
+\RequirePackage{float}
+\RequirePackage{url}
+\RequirePackage{csquotes}
+\RequirePackage{graphicx}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[T1]{fontenc}
+\RequirePackage{upquote}
+\RequirePackage[var0,scale=0.95]{inconsolata}
+\RequirePackage{listings}
+\RequirePackage{xcolor}
+\RequirePackage[
+  backend=biber,
+  style=apa,
+  sorting=nyt
+]{biblatex}
+
+% -------------------------------------------------
+% Paths
+% -------------------------------------------------
+\graphicspath{{figures/}}
+
+% -------------------------------------------------
+% Bibliography
+% -------------------------------------------------
+\addbibresource{bibliography.bib}
+
+% -------------------------------------------------
+% Useful math commands
+% -------------------------------------------------
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+
+% -------------------------------------------------
+% Source code colors
+% -------------------------------------------------
+\definecolor{greencomments}{RGB}{0,128,0}
+\definecolor{bluekeywords}{RGB}{0,0,180}
+\definecolor{redstrings}{RGB}{170,0,0}
+
+% -------------------------------------------------
+% Listings configuration
+% -------------------------------------------------
+\lstset{
+  language=[Sharp]C,
+  showspaces=false,
+  showtabs=false,
+  breaklines=true,
+  showstringspaces=false,
+  breakatwhitespace=true,
+  escapeinside={(*@}{@*)},
+  commentstyle=\color{greencomments},
+  keywordstyle=\color{bluekeywords},
+  stringstyle=\color{redstrings},
+  basicstyle=\ttfamily
+}
+
+% -------------------------------------------------
+% Chapters helper
+% -------------------------------------------------
+\newcommand{\chapterfile}[1]{chapters/#1}
+
+% -------------------------------------------------
+% Bibliography printing
+% -------------------------------------------------
+\newcommand{\printreferences}{%
+  \printbibliography
+}

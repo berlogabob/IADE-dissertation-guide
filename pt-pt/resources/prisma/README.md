@@ -1,4 +1,4 @@
-<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
 # Diretrizes PRISMA
@@ -85,7 +85,7 @@ Estudos incluídos na revisão (n = ...)
 
 - [Declaração PRISMA](http://www.prisma-statement.org/)
 - [Atualização PRISMA 2020](https://www.prisma-statement.org/prisma-2020-flow-diagram)
-- [App PRISMA](https://prisma-flow.diagram.org/) — Gerador interativo de fluxogramas
+- [App PRISMA](https://estech.shinyapps.io/prisma_flowdiagram/) — Gerador interativo de fluxogramas
 
 ## Dicas
 

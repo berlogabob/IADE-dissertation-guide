@@ -1,11 +1,11 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logotipo IADE" width="600"></br></p>
 
 
 # Revisão Sistemática da Literatura (SLR)
 
 ## Visão Geral
 
-Uma Revisão Sistemática da Literatura (SLR) é **obrigatória** para a sua dissertação. É uma abordagem rigorosa e metódica para identificar, avaliar e sintetizar toda a investigação relevante sobre um tema específico. Ao contrário de uma revisão da literatura comum, uma SLR segue um protocolo pré-definido e deve ser reportada usando as diretrizes PRISMA.
+Uma Revisão Sistemática da Literatura (SLR) é **recomendada** para a sua dissertação. É uma abordagem rigorosa e metódica para identificar, avaliar e sintetizar toda a investigação relevante sobre um tema específico. Ao contrário de uma revisão da literatura comum, uma SLR segue um protocolo pré-definido e deve ser reportada usando as diretrizes PRISMA.
 
 ## Processo da SLR
 
@@ -36,10 +36,10 @@ Utilize o framework **PICO** para identificar conceitos-chave:
 
 | Elemento | Descrição | Exemplo |
 |----------|-----------|---------|
-| **P** — População | Quem/o que está a ser estudado | "videojogos", "aprendizagem baseada em jogos" |
-| **I** — Intervenção | O que está a ser aplicado ou testado | "inteligência artificial", "geração procedural" |
-| **C** — Comparação | Com o que é comparado (opcional) | "métodos tradicionais" |
-| **O** — Resultado | O que está a ser medido | "envolvimento do jogador", "resultados de aprendizagem" |
+| **P** → População | Quem/o que está a ser estudado | "videojogos", "aprendizagem baseada em jogos" |
+| **I** → Intervenção | O que está a ser aplicado ou testado | "inteligência artificial", "geração procedural" |
+| **C** → Comparação | Com o que é comparado (opcional) | "métodos tradicionais" |
+| **O** → Resultado | O que está a ser medido | "envolvimento do jogador", "resultados de aprendizagem" |
 
 ### Template de String de Pesquisa
 
@@ -51,7 +51,7 @@ AND
 ("conceito A" OR "conceito B" OR "conceito C")
 ```
 
-### Exemplo — Computação Criativa e IA
+### Exemplo → Computação Criativa e IA
 
 ```
 ("artificial intelligence" OR "machine learning" OR "deep learning"
@@ -64,7 +64,7 @@ AND
 OR "game design")
 ```
 
-### Exemplo — Desenvolvimento de Videojogos
+### Exemplo → Desenvolvimento de Videojogos
 
 ```
 ("digital games" OR "video games" OR "computer games")
@@ -201,7 +201,7 @@ Artigos de texto completo excluídos (n = ...)
 Estudos incluídos na revisão (n = ...)
 ```
 
-Utilize a [App PRISMA](https://prisma-flow.diagram.org/) para gerar o seu fluxograma.
+Utilize a [App PRISMA](https://estech.shinyapps.io/prisma_flowdiagram/) para gerar o seu fluxograma.
 
 ## Discussão
 
@@ -226,7 +226,7 @@ A conclusão deve ser concisa (1–2 parágrafos) e incluir:
 3. Contribuições principais
 4. Observações finais
 
-## PRISMA — Padrão para Relato de SLR
+## PRISMA → Padrão para Relato de SLR
 
 PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) é o **padrão** para reportar revisões sistemáticas da literatura. Todas as SLR devem seguir as diretrizes PRISMA.
 
@@ -236,11 +236,11 @@ Ver: [Guia PRISMA](prisma/README.md)
 
 | Artigo | Ficheiro |
 |--------|----------|
-| Como conduzir uma revisão sistemática da literatura — Guia rápido para investigação em CC | [PDF](../articles/slr/How-to%20conduct%20a%20systematic%20literature%20review%20-%20A%20quick%20guide%20for%20computer%20science%20research.pdf) |
+| Como conduzir uma revisão sistemática da literatura → Guia rápido para investigação em CC | [PDF](../articles/slr/How-to%20conduct%20a%20systematic%20literature%20review%20-%20A%20quick%20guide%20for%20computer%20science%20research.pdf) |
 | Como conduzir uma revisão sistemática da literatura para investigação em CC | [PDF](../articles/slr/How-to%20conduct%20a%20systematic%20literature%20review%20for%20CS%20research.pdf) |
 | Como fazer uma Revisão da Literatura Estruturada em ciência da computação | [PDF](../articles/slr/How-to%20do%20a%20Structured%20Literature%20Review%20in%20computer%20science.pdf) |
 | Apoio a Revisões Sistemáticas da Literatura em Ciência da Computação | [PDF](../articles/slr/Supporting%20Systematic%20Literature%20Reviews%20in%20Computer%20Science.pdf) |
-| Revisão Sistemática da Literatura em Ciência da Computação — Um Guia Prático | [PDF](../articles/slr/Systematic%20Literature%20Review%20in%20Computer%20Science%20-%20A%20Practical%20Guide.pdf) |
+| Revisão Sistemática da Literatura em Ciência da Computação → Um Guia Prático | [PDF](../articles/slr/Systematic%20Literature%20Review%20in%20Computer%20Science%20-%20A%20Practical%20Guide.pdf) |
 
 ## Documentos PRISMA
 
@@ -250,7 +250,7 @@ Ver: [Guia PRISMA](prisma/README.md)
 | Explicação e Elaboração PRISMA 2020 | [PDF](../articles/slr/PRISMA/PRISMA%202020%20explanation%20and%20elaboration%20-%20updated%20guidance%20and%20exemplars%20for%20reporting%20systematic%20reviews.pdf) |
 | Checklist PRISMA 2020 | [DOCX](../articles/slr/PRISMA/PRISMA_2020_checklist.docx) |
 | Fluxograma PRISMA 2020 | [DOCX](../articles/slr/PRISMA/PRISMA_2020_flow_diagram_new_SRs_v1.docx) |
-| App PRISMA | [Link](https://prisma-flow.diagram.org/) |
+| App PRISMA | [Link](https://estech.shinyapps.io/prisma_flowdiagram/) |
 
 ## Erros Comuns
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="IADE Logo" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="IADE Logo" width="600"></br></p>
 
 
 # PRISMA Guidelines
@@ -85,7 +85,7 @@ Studies included in review (n = ...)
 
 - [PRISMA Statement](http://www.prisma-statement.org/)
 - [PRISMA 2020 Update](https://www.prisma-statement.org/prisma-2020-flow-diagram)
-- [PRISMA App](https://prisma-flow.diagram.org/) — Interactive flow diagram generator
+- [PRISMA App](https://estech.shinyapps.io/prisma_flowdiagram/) — Interactive flow diagram generator
 
 ## Tips
 

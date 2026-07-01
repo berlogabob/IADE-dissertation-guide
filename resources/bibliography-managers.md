@@ -7,14 +7,14 @@ Tools for organizing references, generating citations, and creating bibliographi
 
 ## Recommended
 
-### [Zotero](https://www.zotero.org/)
+### <a href="https://www.zotero.org/" target="_blank" rel="noopener noreferrer">Zotero</a>
 - **Type**: Desktop app + web + browser connector
 - **Cost**: Free
 - **Best for**: Most users, team collaboration
 - **Features**: PDF management, word processor plugin, syncing, groups
 - **Guide**: See [Zotero Guide](../guides/tools/zotero-guide.md)
 
-### [ZoteroBib](https://zbib.org/)
+### <a href="https://www.zbib.org/" target="_blank" rel="noopener noreferrer">ZoteroBib</a>
 - **Type**: Web-based
 - **Cost**: Free
 - **Best for**: Quick one-off bibliographies
@@ -22,39 +22,27 @@ Tools for organizing references, generating citations, and creating bibliographi
 
 ## Alternatives
 
-### [Mendeley](https://www.mendeley.com/)
+### <a href="https://www.mendeley.com/" target="_blank" rel="noopener noreferrer">Mendeley</a>
 - **Type**: Desktop app + web
 - **Cost**: Free (with limits)
 - **Best for**: PDF annotation, social networking
 - **Features**: PDF reader, annotations, recommendations
 
-### [JabRef](https://www.jabref.org/)
-- **Type**: Desktop app (offline)
-- **Cost**: Free, open source
-- **Best for**: LaTeX users
-- **Features**: BibTeX/BibLaTeX native, import from other managers
-
-### [MyBib](https://www.mybib.com/)
-- **Type**: Web-based
-- **Cost**: Free
-- **Best for**: Quick citations without software installation
-- **Features**: APA, MLA, and other styles, no account needed
-
 ## Comparison
 
-| Feature | Zotero | Mendeley | JabRef | MyBib |
-|---------|--------|----------|--------|-------|
-| Desktop app | ✅ | ✅ | ✅ | ❌ |
-| Web version | ✅ | ✅ | ❌ | ✅ |
-| Browser connector | ✅ | ✅ | ❌ | ❌ |
-| Word plugin | ✅ | ✅ | ❌ | ❌ |
-| LaTeX support | ✅ | Limited | ✅ | ❌ |
-| PDF management | ✅ | ✅ | Limited | ❌ |
-| Team collaboration | ✅ | ✅ | ❌ | ❌ |
+| Feature | Zotero | Mendeley |
+|--------------|:------:|:--------:|
+| Desktop app | ✅ | ✅ |
+| Web version | ✅ | ✅ |
+| Browser connector | ✅ |
+| Word plugin | ✅ | ✅ |
+| LaTeX support | ✅ | Limited |
+| PDF management | ✅ | ✅ |
+| Team collaboration | ✅ | ✅ |
 
 ## Getting Started with Zotero (Recommended)
 
-1. Download from [zotero.org](https://www.zotero.org/)
+1. Download from <a href="https://www.zotero.org/" target="_blank" rel="noopener noreferrer">zotero.org</a>
 2. Install the browser connector
 3. Create a free account
 4. Install the Word/LibreOffice plugin

@@ -1,7 +1,7 @@
-<p align="center"><img src="../images/logo-iade.png" alt="IADE Logo" width="600"></p>
+<p align="center"><img src="../images/logo-iade.png" alt="IADE Logo" width="600"></br></p>
 
 
-# 02 — Literature Review
+# 02 - Literature Review
 
 ## Overview
 
@@ -35,9 +35,9 @@ See the full list: [Digital Libraries](../resources/digital-libraries.md)
 
 Use a bibliography manager to organize papers:
 
-- [Zotero](https://www.zotero.org/) — Recommended, free, desktop + web
-- [Mendeley](https://www.mendeley.com/) — Alternative option
-- [JabRef](https://www.jabref.org/) — Offline, open source
+- [Zotero](https://www.zotero.org/) → Recommended, free, desktop + web
+- [Mendeley](https://www.mendeley.com/) → Alternative option
+- [JabRef](https://www.jabref.org/) → Offline, open source
 
 See: [Bibliography Managers](../resources/bibliography-managers.md)
 
@@ -58,10 +58,10 @@ Organize your review by **themes**, not by paper. Show how studies relate to eac
 
 These tools can accelerate your search:
 
-- [Consensus](https://consensus.app/) — Find consensus across papers
-- [Elicit](https://elicit.com/) — Extract findings from papers
-- [Connected Papers](https://www.connectedpapers.com/) — Visualize paper relationships
-- [Research Rabbit](https://app.researchrabbit.ai/) — Discover related papers
+- [Consensus](https://consensus.app/) → Find consensus across papers
+- [Elicit](https://elicit.com/) → Extract findings from papers
+- [Connected Papers](https://www.connectedpapers.com/) → Visualize paper relationships
+- [Research Rabbit](https://app.researchrabbit.ai/) → Discover related papers
 
 See: [AI Research Tools](../resources/ai-tools.md)
 

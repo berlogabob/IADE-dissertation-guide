@@ -1,4 +1,4 @@
-<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
 # Guia do Zotero
@@ -61,4 +61,4 @@ O Zotero é uma ferramenta gratuita e de código aberto para recolher, organizar
 
 ---
 
-[← Voltar: Citações e Referências](../05-citations-and-references.md) | [Voltar ao README](../../README.pt-pt.md)
+[← Voltar: Citações e Referências](../05-citations-and-references.md) | [Voltar ao README](../../../README.pt-pt.md)

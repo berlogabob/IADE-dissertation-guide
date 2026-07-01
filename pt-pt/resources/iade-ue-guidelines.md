@@ -1,4 +1,4 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
 # Diretrizes IADE e UE para Trabalhos Académicos
@@ -19,4 +19,4 @@ Guia oficial da biblioteca para trabalhos académicos na UE e IADE.
 
 ---
 
-[← Voltar ao README](../README.pt-pt.md)
+[← Voltar ao README](../../README.pt-pt.md)

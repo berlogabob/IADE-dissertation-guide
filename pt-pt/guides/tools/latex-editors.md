@@ -1,5 +1,4 @@
-<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
-
+<p align="center"><img src="../../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 # Editores LaTeX
 
@@ -16,8 +15,8 @@ Ferramentas para escrever e compilar documentos LaTeX.
 
 ### [ChatGPT Prism](https://prism.openai.com/)
 - **Tipo**: Baseado na web com IA
-- **Custo**: Requer conta OpenAI
-- **Mais adequado para**: Escrita LaTeX assistida por IA
+- **Custo**: Gratuito, mas requer conta OpenAI
+- **Mais adequado para**: Principiantes, colaboração e escrita LaTeX assistida por IA
 - **Funcionalidades**: Assistência de escrita por IA, completar código, ajuda na depuração
 - **Plataformas**: Qualquer navegador
 
@@ -58,26 +57,25 @@ Estas fornecem o compilador LaTeX (pdflatex, biber, etc.).
 ## Comparação
 
 | Funcionalidade | Overleaf | Prism | TeXstudio | VS Code |
-|----------------|----------|-------|-----------|---------|
-| Gratuito | ✅ | ❌ | ✅ | ✅ |
-| Offline | ❌ | ❌ | ✅ | ✅ |
+|----------------|:--------:|:-----:|:---------:|:-------:|
+| Gratuito       | ✅ | ✅ | ✅ | ✅ |
+| Offline        | ❌ | ❌ | ✅ | ✅ |
 | Assistência IA | ❌ | ✅ | ❌ | Plugin |
-| Colaboração | ✅ | ❌ | ❌ | ✅ |
+| Colaboração    | ✅ | ✅ | ❌ | ✅ |
 | Amigável para principiantes | ✅ | ✅ | ✅ | ❌ |
 
 ## Configuração Recomendada
 
 ### Para principiantes
-1. Use **Overleaf** — sem necessidade de instalação
+1. Use **Overleaf** ou **Prism** - sem necessidade de instalação
 2. Ou instale **MiKTeX** + **TeXstudio** no Windows
 
 ### Para programadores
-1. Instale **TeX Live** (ou MiKTeX no Windows)
+1. Instale **TeX Live** (ou **MiKTeX** no Windows)
 2. Use **VS Code** com a extensão LaTeX Workshop
 
 ### Para escrita assistida por IA
 1. Use **ChatGPT Prism** para ajuda de IA
-2. Compile localmente ou no Overleaf
 
 ## Recursos
 
@@ -87,4 +85,4 @@ Estas fornecem o compilador LaTeX (pdflatex, biber, etc.).
 
 ---
 
-[← Voltar ao README](../../README.pt-pt.md)
+[← Voltar ao README](../../../README.pt-pt.md)

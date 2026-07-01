@@ -1,7 +1,7 @@
-<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></p>
+<p align="center"><img src="../../images/logo-iade.png" alt="Logótipo IADE" width="600"></br></p>
 
 
-# 06 — Preparação da Defesa
+# 06 - Preparação da Defesa
 
 ## Visão Geral
 
@@ -20,13 +20,13 @@ A defesa (ou viva) é a oportunidade de apresentar e justificar a sua investiga�
 
 Estrutura típica (15–20 minutos):
 
-1. **Introdução** (2 min) — Problema e motivação
-2. **Objetivos** (1 min) — O que se propôs a fazer
-3. **Revisão da Literatura** (3 min) — Resultados-chave e lacuna
-4. **Metodologia** (4 min) — Como o fez
-5. **Resultados** (5 min) — O que encontrou
-6. **Discussão e Conclusões** (3 min) — O que significa
-7. **Trabalho Futuro** (1 min) — Próximos passos
+1. **Introdução** (2 min) → Problema e motivação
+2. **Objetivos** (1 min) → O que se propôs a fazer
+3. **Revisão da Literatura** (3 min) → Resultados-chave e lacuna
+4. **Metodologia** (4 min) → Como o fez
+5. **Resultados** (5 min) → O que encontrou
+6. **Discussão e Conclusões** (3 min) → O que significa
+7. **Trabalho Futuro** (1 min) → Próximos passos
 
 ### 3. Crie as Diapositivos
 
@@ -68,7 +68,7 @@ Prepare respostas para estas:
 ### Fazer
 - Manter a calma e confiança
 - Ouvir cuidadosamente cada questão
-- Responder honestamente — está bem dizer "não sei"
+- Responder honestamente → está bem dizer "não sei"
 - Tomar um momento para pensar antes de responder
 - Agradecer ao júri pelas questões
 
@@ -94,10 +94,6 @@ Prepare respostas para estas:
 | Exceder o tempo | Pratique com temporizador várias vezes |
 | Ficar defensivo | Ver as questões como oportunidades de clarificação |
 | Não preparar questões de metodologia | Rever cada escolha metodológica |
-
-## Boa Sorte!
-
-Fez o trabalho duro. Confie na sua preparação e apresente com confiança.
 
 ---
 
