@@ -1,5 +1,6 @@
 ![IADE Logo](../../images/logo-iade.png)
-
+# Typst 
+Typst is a markup-based typesetting system that combines powerful automation and high-quality typography with speed and ease of use. This makes it suitable for documents of any complexity. Typst is a great alternative to both word processors and LaTeX.
 # Typst Editors
 
 Tools for writing and compiling Typst documents.
